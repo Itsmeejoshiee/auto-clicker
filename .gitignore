@@ -1,0 +1,7 @@
+#Ignore these folders
+release/
+build/
+dist/
+
+#ignore these files
+main.spec
